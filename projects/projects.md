@@ -142,6 +142,7 @@
 ## U
 * [Ubiq](ubiq.md)
 ## V
+* [Vechain](vechain.md)
 * [Veredictum](veredictum.md)  
 * [Verge](verge.md)
 * [Veritaseum](veritaseum.md)
